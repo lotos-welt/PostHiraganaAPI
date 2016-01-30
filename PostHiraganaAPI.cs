@@ -9,7 +9,7 @@ public class PostHiraganaAPI : MonoBehaviour {
     /// <summary>
     /// GooラボApplicationID.
     /// </summary>
-    private const string APPLICATION_ID = "[上記のGithubにアクセス時に取得したIDを利用]";
+    private const string APPLICATION_ID = "[gooラボより取得したApplication ID]";
 
     /// <summary>
     /// ひらがな化API.
