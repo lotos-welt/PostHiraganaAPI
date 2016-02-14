@@ -1,4 +1,13 @@
-﻿using UnityEngine;
+/************************************************
+PostHiraganaAPI.cs
+
+Copyright (c) 2016 LotosLabo
+
+This software is released under the MIT License.
+http://opensource.org/licenses/mit-license.php
+************************************************/
+
+using UnityEngine;
 using LitJson;
 using System.Text;
 using System.Collections;
